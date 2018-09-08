@@ -1,0 +1,22 @@
+{
+  "name": "chadalivia",
+  "version": "1.0.0",
+  "description": "site do cha da livia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogo256/chadalivia.git"
+  },
+  "author": "Diogo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogo256/chadalivia/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "homepage": "https://github.com/diogo256/chadalivia#readme"
+}

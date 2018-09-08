@@ -1,0 +1,22 @@
+{
+  "name": "chadalivia",
+  "description": "site do cha da livia",
+  "main": "index.js",
+  "authors": [
+    "Diogo Oliveira"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/diogo256/chadalivia",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.4",
+    "jquery": "1.12.4",
+    "angular-route": "1.6.4"
+  }
+}
